@@ -107,7 +107,7 @@
 ## 📫 Connect With Me
 
 - 💼 GitHub: https://github.com/Pandeyjii143
-- 🔗 LinkedIn:www.linkdin.com/in/ravikishan-pandey-
+- 🔗 LinkedIn:https://www.linkedin.com/in/ravikishan-pandey-872893286?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - 📧 Email: pandeyravi2143@gmail.com
 
 ---
