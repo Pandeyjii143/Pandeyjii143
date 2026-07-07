@@ -89,10 +89,7 @@
 
 - Full Stack AI Development
 - Advanced MERN Stack
-- Deep Learning
-- Large Language Models (LLMs)
 - LangChain
-- FastAPI
 - System Design
 
 ---
@@ -110,8 +107,8 @@
 ## 📫 Connect With Me
 
 - 💼 GitHub: https://github.com/Pandeyjii143
-- 🔗 LinkedIn: *(Add your LinkedIn URL here)*
-- 📧 Email: *(Add your email here)*
+- 🔗 LinkedIn:www.linkdin.com/in/ravikishan-pandey-
+- 📧 Email: pandeyravi2143@gmail.com
 
 ---
 
