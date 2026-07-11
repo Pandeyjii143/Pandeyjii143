@@ -57,7 +57,7 @@
 
 <p align="center">
 
-<a href="https://github.com/Pandeyjii143/Pandeyjii143/raw/main/assets/Resume_Ravikishan_Pandey.pdf">
+<a href="https://github.com/Pandeyjii143/Pandeyjii143/raw/main//Ravikishan_Pandey_Resume (1).docx">
 
 <img src="https://img.shields.io/badge/📄%20Download%20Resume-red?style=for-the-badge"/>
 
