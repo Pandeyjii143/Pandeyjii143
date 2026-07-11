@@ -1,37 +1,45 @@
-# Hi 👋, I'm Ravikishan Pandey!
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,100:06B6D4&text=Ravikishan%20Pandey&fontSize=55&fontAlignY=35&fontColor=ffffff&desc=Artificial%20Intelligence%20%7C%20Full%20Stack%20AI%20Developer&descAlignY=55&animation=fadeIn"/>
+</p>
 
-### 🚀 Full Stack AI Developer | AI & ML Enthusiast | Backend Developer | Open Source Learner
+<h1 align="center">Hi 👋, I'm Ravikishan Pandey</h1>
 
-A B.Tech student in **Artificial Intelligence & Machine Learning** passionate about building intelligent applications, scalable backend systems, and solving real-world problems using AI.
+<h3 align="center">
+🚀 Artificial Intelligence & Machine Learning Student <br>
+🤖 Full Stack AI Developer • Backend Developer • AI Enthusiast
+</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Machine+Learning;Full+Stack+AI+Developer;Machine+Learning+%7C+Deep+Learning;Building+AI+Powered+Applications;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=25&pause=1000&color=06B6D4&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Machine+Learning;Full+Stack+AI+Developer;Machine+Learning+%7C+Deep+Learning;Generative+AI+%7C+RAG;Backend+Developer+%7C+FastAPI;Always+Learning+New+Technologies"/>
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Pandeyjii143&style=for-the-badge&color=blue"/>
+
+<img src="https://img.shields.io/github/followers/Pandeyjii143?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/Pandeyjii143?style=for-the-badge"/>
+
 </p>
 
 ---
 
-# 💻 About Me
+# 👨‍💻 About Me
 
-🌱 Currently learning **Full Stack AI Development, FastAPI, RAG, Generative AI, System Design & Advanced Backend Development**
+🎓 B.Tech Student in **Artificial Intelligence & Machine Learning**
 
-💬 Ask me about **Machine Learning, Deep Learning, Python, JavaScript, MERN Stack, Node.js, Express, MongoDB**
+💻 Passionate about **Artificial Intelligence, Backend Development, and Scalable Software**
 
-👨‍💻 Check out my projects here:
-**https://github.com/Pandeyjii143**
+🚀 Building real-world AI applications using **Machine Learning, Deep Learning, MERN Stack, and FastAPI**
 
-📫 Reach me at:
-**your-email@gmail.com**
+🌱 Continuously learning modern AI technologies and software engineering practices
 
-📄 Resume:
-**📥 Download Resume** *(Add your PDF link here)*
-
-🎯 Career Goal
-
-> Become a **Full Stack AI Engineer** building production-ready AI systems and scalable backend architectures.
+🎯 Goal: Become a **Full Stack AI Engineer**
 
 ---
 
-# 🧠 Current Focus
+## 🌱 Current Focus
 
 - 🤖 Machine Learning
 - 🧠 Deep Learning
@@ -40,81 +48,103 @@ A B.Tech student in **Artificial Intelligence & Machine Learning** passionate ab
 - ⚡ FastAPI
 - 🌐 MERN Stack
 - ☁ Backend Development
-- 📊 Data Structures & Algorithms
 - 🏗 System Design
+- 📊 Data Structures & Algorithms
 
 ---
 
-# 🚀 Featured Projects
+## 📄 Resume
 
-🧠 LSTM Word Predictor
+<p align="center">
 
-📧 Email Spam Classifier
+<a href="https://github.com/Pandeyjii143/Pandeyjii143/raw/main/assets/Resume_Ravikishan_Pandey.pdf">
 
-🌾 GrainVeda AI
+<img src="https://img.shields.io/badge/📄%20Download%20Resume-red?style=for-the-badge"/>
 
-🌐 MERN Backend APIs
-
-📊 Data Analytics Projects
-
-🤖 Machine Learning Projects
-
----
-
-# 📱 Connect With Me
-
-<p align="left">
-
-<a href="https://github.com/Pandeyjii143">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
 
 ---
 
-# 🛠 My Tech Arsenal
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Pandeyjii143">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+<a href="YOUR_LINKEDIN_LINK">
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+
+</a>
+
+</p>
+
+---
+# 🛠️ My Tech Arsenal
 
 ## 💻 Programming Languages
+
+<p align="left">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+</p>
+
 ---
 
-## 🎨 Frontend
+## 🎨 Frontend Development
+
+<p align="left">
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
+
+</p>
 
 ---
 
-## ⚙ Backend
+## ⚙️ Backend Development
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+<p align="left">
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
 
+</p>
+
 ---
 
-## 🗄 Database
+## 🗄️ Databases
+
+<p align="left">
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
+</p>
+
 ---
 
 ## 🤖 Artificial Intelligence
+
+<p align="left">
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge)
 
@@ -122,25 +152,37 @@ A B.Tech student in **Artificial Intelligence & Machine Learning** passionate ab
 
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-purple?style=for-the-badge)
 
-![RAG](https://img.shields.io/badge/RAG-orange?style=for-the-badge)
+![RAG](https://img.shields.io/badge/Retrieval%20Augmented%20Generation-orange?style=for-the-badge)
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
 
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+
+</p>
 
 ---
 
 ## 📚 Computer Science
 
-![Data Structures & Algorithms](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-00599C?style=for-the-badge)
+<p align="left">
+
+![Data Structures](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-00599C?style=for-the-badge)
+
+![Object Oriented Programming](https://img.shields.io/badge/OOP-8A2BE2?style=for-the-badge)
+
+![System Design](https://img.shields.io/badge/System%20Design-FF5722?style=for-the-badge)
+
+</p>
 
 ---
 
-## 🛠 Tools
+## 🛠️ Tools & Platforms
+
+<p align="left">
 
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git)
 
@@ -150,27 +192,220 @@ A B.Tech student in **Artificial Intelligence & Machine Learning** passionate ab
 
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab)
 
----
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 
-# 📊 GitHub Statistics
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pandeyjii143&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Pandeyjii143&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pandeyjii143&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
+# 📊 GitHub Analytics
 
-# 💡 Developer Quote
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pandeyjii143&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Pandeyjii143&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pandeyjii143&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Pandeyjii143&theme=algolia&margin-w=15&margin-h=15&row=2&column=4"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pandeyjii143&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Pandeyjii143/Pandeyjii143/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+> **Note:** The snake animation requires a GitHub Action to generate it automatically. It won't appear until you set that up.
+
+---
+
+# ⚡ GitHub Highlights
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pandeyjii143&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pandeyjii143&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pandeyjii143&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pandeyjii143&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pandeyjii143&theme=tokyonight&utcOffset=5.5"/>
+
+</p>
+
+---
+
+# 💻 Coding Activity
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pandeyjii143&theme=github_dark"/>
+
+</p>
+
+---
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Pandeyjii143">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://x.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 📄 Resume
+
+<p align="center">
+
+<a href="https://github.com/Pandeyjii143/Pandeyjii143/raw/main/assets/Resume_Ravikishan_Pandey.pdf">
+
+<img src="https://img.shields.io/badge/📄%20Download%20Resume-red?style=for-the-badge"/>
+
+</a>
+
+</p>
+
+---
+
+# 💡 Favorite Quote
+
+<p align="center">
 
 > **"The best way to predict the future is to build it."**
 
+> **"Every expert was once a beginner who refused to give up."**
+
+</p>
+
 ---
 
+# 🎯 Current Mission
+
+```text
+✔ Master Artificial Intelligence
+✔ Become a Full Stack AI Engineer
+✔ Build Production-Ready AI Applications
+✔ Contribute to Open Source
+✔ Keep Learning Every Day
+```
+
+---
+
+# 🤝 Let's Collaborate
+
+I'm always interested in collaborating on:
+
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 🔥 Deep Learning
+- 🌐 Full Stack Development
+- ⚡ Backend Engineering
+- 📚 Open Source Projects
+
+If you have an exciting idea, feel free to connect!
+
+---
+
+# ❤️ Support My Work
+
+If you like my projects,
+
+⭐ Star my repositories
+
+🍴 Fork them
+
+🤝 Contribute
+
+📢 Share them with others
+
+---
+
+# ☕ Fun Fact
+
+```python
+while(True):
+    learn()
+    build()
+    improve()
+```
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=120&section=footer"/>
+
+</p>
+
 <h3 align="center">
-⭐ Thanks for visiting my profile! Let's build AI that makes a difference. 🚀
+
+✨ Thanks for visiting my profile! ✨
+
+🚀 Let's build the future with Artificial Intelligence.
+
 </h3>
+
+<p align="center">
+
+Made with ❤️ by <b>Ravikishan Pandey</b>
+
+</p>
