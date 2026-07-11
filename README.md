@@ -1,257 +1,524 @@
-# 👋 Hi, I'm **Ravikishan Pandey**
+<div align="center">
 
-```{=html}
-<p align="center">
-```
+<!-- 🎨 Custom-designed banner (glassmorphism + neural-network motif) -->
+<img src="assets/banner.svg" width="100%" alt="Ravikishan Pandey banner"/>
 
-`<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Ravikishan%20Pandey&fontSize=45&fontColor=ffffff&color=0:1F4E79,50:36BCF7,100:8A2BE2"/>`{=html}
+<!-- Animated typing header -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full-Stack+AI+Developer;Machine+Learning+%7C+Deep+Learning+%7C+NLP;GenAI+%7C+RAG+%7C+LangChain;Building+with+React%2C+Next.js+%26+FastAPI" alt="Typing SVG" />
 
-```{=html}
-</p>
-```
+<!-- Badges row -->
+<img src="https://komarev.com/ghpvc/?username=Pandeyjii143&label=Profile%20Views&color=36BCF7&style=flat-square" />
+<img src="https://img.shields.io/github/followers/Pandeyjii143?label=Followers&style=flat-square&color=8A2BE2" />
+<img src="https://img.shields.io/badge/🟢%20Open%20to-Internships-brightgreen?style=flat-square" />
 
-```{=html}
-<p align="center">
-```
+<br/><br/>
 
-`<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+AI+Developer;AI+%7C+ML+%7C+Deep+Learning+%7C+GenAI+%7C+RAG;React+%7C+Next.js+%7C+FastAPI+%7C+Node.js;Always+Learning+Always+Building"/>`{=html}
+<!-- Resume download button -->
+<a href="assets/Ravikishan_Pandey_Resume.pdf">
+  <img src="https://img.shields.io/badge/📄%20Download%20Resume-1F4E79?style=for-the-badge&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/ravikishan-pandey-872893286">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:pandeyravi2143@gmail.com">
+  <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-```{=html}
-</p>
-```
+</div>
 
-```{=html}
-<p align="center">
-```
+<br/>
 
-`<a href="mailto:pandeyravi2143@gmail.com">`{=html}`<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">`{=html}`</a>`{=html}
-`<a href="https://www.linkedin.com/in/ravikishan-pandey-872893286">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">`{=html}`</a>`{=html}
-`<a href="https://github.com/Pandeyjii143">`{=html}`<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">`{=html}`</a>`{=html}
-`<a href="https://github.com/Pandeyjii143/Pandeyjii143/raw/main/Resume/Ravikishan_Pandey_Resume.pdf">`{=html}`<img src="https://img.shields.io/badge/Resume-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">`{=html}`</a>`{=html}
+## 👋 About Me
 
-```{=html}
-</p>
-```
+I'm a B.Tech **Artificial Intelligence & Machine Learning** student (2023 – 2027, Techno International Newtown, Kolkata) who builds practical, end-to-end AI products — from **RAG-powered chatbots** to **full-stack web platforms**. I care about shipping things that actually work in production, not just in a notebook.
 
----
+- 🔭 Currently building AI applications with **LangChain, RAG pipelines, and FastAPI**
+- 🌐 Comfortable across the stack — **React / Next.js** on the frontend, **FastAPI / Node.js** on the backend
+- 🧠 Strong fundamentals in **Machine Learning, Deep Learning, NLP, and DSA**
+- 🤝 Effective communicator, fast learner, and a solid teammate
+- 📍 Based in Kolkata, West Bengal, India
 
-# 🚀 About Me
+<table>
+<tr>
+<td width="55%" valign="top">
 
-- 🎓 B.Tech Artificial Intelligence & Machine Learning (2023--2027)
-- 📍 Techno International Newtown, Kolkata
-- 🤖 Building AI-powered full-stack applications
-- 💡 Interested in LLMs, RAG, NLP, Deep Learning and scalable backend
-  systems
-- 🎯 Goal: Become a Full Stack AI Engineer
+### 🎯 Open to Internships
 
-## 💼 Open to Opportunities
+I'm actively looking for **Software / AI Engineering internship** opportunities where I can contribute to real products while growing under an experienced team. Interested in:
 
-- AI/ML Internship
-- Software Engineering Internship
-- Full Stack AI Developer
-- Open Source Collaboration
+- AI/ML & GenAI Engineering
+- Full-Stack Development (MERN / React + FastAPI)
+- Backend & API Engineering
 
----
+**📬 Reach out:** pandeyravi2143@gmail.com
 
-# 🛠 Tech Stack
+</td>
+<td width="45%" valign="top">
 
-## Languages
+### ⚡ Quick Facts
 
-```{=html}
-<p>
-```
+| | |
+|---|---|
+| 🎓 Degree | B.Tech AI & ML |
+| 📅 Grad Year | 2027 |
+| 💼 Status | Open to Internships |
+| 🌱 Learning | Next.js, RAG, System Design |
+| 🗣️ Languages | English, Hindi, Bengali |
 
-`<img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,mysql"/>`{=html}
-
-```{=html}
-</p>
-```
-
-## Frontend
-
-```{=html}
-<p>
-```
-
-`<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap"/>`{=html}
-
-```{=html}
-</p>
-```
-
-## Backend
-
-```{=html}
-<p>
-```
-
-`<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,flask"/>`{=html}
-
-```{=html}
-</p>
-```
-
-## AI & Data
-
-- Machine Learning
-- Deep Learning
-- NLP
-- Generative AI
-- RAG
-- LangChain
-- TensorFlow
-- PyTorch
-- Scikit-Learn
-- Pandas
-- NumPy
-
-## Databases & Tools
-
-```{=html}
-<p>
-```
-
-`<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,docker,git,github,vscode,postman"/>`{=html}
-
-```{=html}
-</p>
-```
+</td>
+</tr>
+</table>
 
 ---
 
-# 🚀 Featured Projects
+## 🛠️ Tech Stack
 
-Project                    Description
+<div align="center">
 
----
+**Languages**
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
-🩺 Medical RAG Chatbot     AI chatbot using LangChain, RAG and FastAPI
-📧 Email Spam Classifier   NLP spam detection using Scikit-learn
-🌾 GrainVeda AI            AI-powered agriculture assistant
-🌐 MERN Backend APIs       Authentication and REST APIs
-🧮 React Calculator        Responsive calculator built using React
-🏢 Business Website        Responsive company website
+**Frontend**
+<br/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
----
+**Backend**
+<br/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 
-# 📄 Resume
+**AI / ML / GenAI**
+<br/>
+<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Deep%20Learning-E34F26?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NLP-4B0082?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-FF9800?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 
-```{=html}
-<p align="center">
-```
+**Databases & Tools**
+<br/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 
-`<a href="https://github.com/Pandeyjii143/Pandeyjii143/raw/main/Resume/Ravikishan_Pandey_Resume.pdf">`{=html}
-`<img src="https://img.shields.io/badge/Download%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">`{=html}
-`</a>`{=html}
+**CS Fundamentals**
+<br/>
+<img src="https://img.shields.io/badge/DSA-00599C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/System%20Design-2E8B57?style=for-the-badge" />
 
-```{=html}
-</p>
-```
-
----
-
-# 📊 GitHub Statistics
-
-```{=html}
-<p align="center">
-```
-
-`<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pandeyjii143&show_icons=true&theme=tokyonight"/>`{=html}
-`<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Pandeyjii143&theme=tokyonight"/>`{=html}
-
-```{=html}
-</p>
-```
-
-```{=html}
-<p align="center">
-```
-
-`<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pandeyjii143&layout=compact&theme=tokyonight"/>`{=html}
-
-```{=html}
-</p>
-```
-
----
-
-# 🏆 GitHub Trophies
-
-```{=html}
-<p align="center">
-```
-
-`<img src="https://github-profile-trophy.vercel.app/?username=Pandeyjii143&theme=tokyonight&no-frame=true&row=1&column=7"/>`{=html}
-
-```{=html}
-</p>
-```
+</div>
 
 ---
 
-# 📈 Contribution Graph
+## 🤖 AI / ML Showcase
 
-```{=html}
-<p align="center">
-```
+<table>
+<tr>
+<td width="33%" valign="top">
 
-`<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pandeyjii143&theme=tokyo-night"/>`{=html}
+**🧠 Retrieval-Augmented Generation**
+Built a production-style RAG pipeline that grounds LLM responses in retrieved medical context, reducing hallucination and improving factual accuracy.
 
-```{=html}
-</p>
-```
+</td>
+<td width="33%" valign="top">
 
----
+**🔗 LangChain Orchestration**
+Used LangChain to chain retrieval, prompt templating, and generation steps into a coherent chatbot pipeline served through FastAPI.
 
-# 🐍 Contribution Snake
+</td>
+<td width="33%" valign="top">
 
-> Enable the GitHub Action that generates
-> `github-contribution-grid-snake.svg`, then replace the placeholder
-> below.
+**📊 Classical ML & NLP**
+Applied TF-IDF, tokenization, and stemming with Scikit-learn to build a reliable spam-detection classifier from raw text data.
 
-```md
-<p align="center">
-<img src="https://raw.githubusercontent.com/Pandeyjii143/Pandeyjii143/output/github-contribution-grid-snake-dark.svg">
-</p>
-```
-
----
-
-# 🌱 Currently Learning
-
-- Next.js
-- System Design
-- Advanced DSA
-- Docker
-- Kubernetes
-- LangGraph
-- Agentic AI
+</td>
+</tr>
+</table>
 
 ---
 
-# 📫 Connect With Me
+## 🚀 Featured Projects
 
-- 📧 Email: **pandeyravi2143@gmail.com**
-- 💼 LinkedIn: https://www.linkedin.com/in/ravikishan-pandey-872893286
-- 🐙 GitHub: https://github.com/Pandeyjii143
+<div align="center">
+<img src="assets/project-medical-chatbot.svg" width="49%" />
+<img src="assets/project-spam-classifier.svg" width="49%" />
+<br/>
+<img src="assets/project-business-website.svg" width="49%" />
+</div>
 
 ---
 
-```{=html}
-<p align="center">
-```
+## 📈 My Journey
 
-⭐ If you like my work, consider starring my repositories.
+<div align="center">
+<img src="assets/timeline.svg" width="100%" />
+</div>
 
-```{=html}
-</p>
-```
+---
 
-```{=html}
-<p align="center">
-```
+## 📊 GitHub Analytics
 
-Made with ❤️ by `<b>`{=html}Ravikishan Pandey`</b>`{=html}
+<div align="center">
 
-```{=html}
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Pandeyjii143&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pandeyjii143&theme=tokyonight&hide_border=true" height="175"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pandeyjii143&layout=compact&theme=tokyonight&hide_border=true" height="175"/>
+
+### 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=Pandeyjii143&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+### 📈 Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pandeyjii143&theme=tokyo-night&hide_border=true" width="90%"/>
+
+### 🐍 Contribution Snake
+<!-- Generated automatically by .github/workflows/snake.yml once pushed to GitHub -->
+<img src="https://raw.githubusercontent.com/Pandeyjii143/Pandeyjii143/output/github-contribution-grid-snake-dark.svg" width="90%" />
+
+</div>
+
+---
+
+## 🏅 Certifications
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+📜 **Certification Name** — Issuer *(Month Year)*
+`Add your certificate link here`
+
+</td>
+<td width="50%" valign="top">
+
+📜 **Certification Name** — Issuer *(Month Year)*
+`Add your certificate link here`
+
+</td>
+</tr>
+</table>
+
+> Add your NPTEL / Coursera / Udemy / hackathon certificates here as you complete them — recruiters check this section closely.
+
+---
+
+## 📝 Latest Articles
+
+<!-- Auto-updated via blog-post-workflow / dev.to RSS once connected -->
+- 📌 *Coming soon — connect a dev.to / Hashnode / Medium RSS feed to auto-populate this section.*
+
+---
+
+## 🌱 Currently Learning
+
+`Next.js` · `RAG Pipelines` · `LangChain` · `System Design` · `DSA` · `Advanced DevOps`
+
+---
+
+## 📫 Contact
+
+<div align="center">
+
+<a href="mailto:pandeyravi2143@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/ravikishan-pandey-872893286">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Pandeyjii143">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="tel:+916289720032">
+  <img src="https://img.shields.io/badge/Call%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
+<br/><br/>
+<i>Let's connect and build the future together 🚀</i>
+<br/>
+<b>Made with 💖 by Ravikishan Pandey</b>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:1F4E79&height=100&section=footer"/>
+
+<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b1220"/>
+      <stop offset="45%" stop-color="#141b3d"/>
+      <stop offset="100%" stop-color="#241246"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#36BCF7"/>
+      <stop offset="100%" stop-color="#8A2BE2"/>
+    </linearGradient>
+    <linearGradient id="glass" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.02"/>
+    </linearGradient>
+    <filter id="blur1"><feGaussianBlur stdDeviation="40"/></filter>
+    <filter id="blur2"><feGaussianBlur stdDeviation="18"/></filter>
+    <radialGradient id="glow1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#36BCF7" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#36BCF7" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#8A2BE2" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#8A2BE2" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#bg)"/>
+
+  <circle cx="980" cy="70" r="180" fill="url(#glow1)" filter="url(#blur1)"/>
+  <circle cx="1080" cy="260" r="160" fill="url(#glow2)" filter="url(#blur1)"/>
+
+  <g stroke="#36BCF7" stroke-opacity="0.35" stroke-width="1.2">
+    <line x1="760" y1="60" x2="860" y2="110"/>
+    <line x1="860" y1="110" x2="960" y2="70"/>
+    <line x1="860" y1="110" x2="900" y2="190"/>
+    <line x1="960" y1="70" x2="1060" y2="120"/>
+    <line x1="900" y1="190" x2="1000" y2="230"/>
+    <line x1="900" y1="190" x2="820" y2="240"/>
+    <line x1="1000" y1="230" x2="1100" y2="200"/>
+    <line x1="1060" y1="120" x2="1140" y2="90"/>
+    <line x1="1060" y1="120" x2="1100" y2="200"/>
+    <line x1="760" y1="60" x2="780" y2="160"/>
+    <line x1="780" y1="160" x2="820" y2="240"/>
+    <line x1="780" y1="160" x2="900" y2="190"/>
+  </g>
+  <g fill="#36BCF7">
+    <circle cx="760" cy="60" r="4"/>
+    <circle cx="860" cy="110" r="5"/>
+    <circle cx="960" cy="70" r="4"/>
+    <circle cx="900" cy="190" r="6"/>
+    <circle cx="1060" cy="120" r="5"/>
+    <circle cx="1000" cy="230" r="4"/>
+    <circle cx="820" cy="240" r="4"/>
+    <circle cx="1100" cy="200" r="5"/>
+    <circle cx="1140" cy="90" r="4"/>
+    <circle cx="780" cy="160" r="4"/>
+  </g>
+
+  <rect x="60" y="60" width="620" height="200" rx="22" fill="url(#glass)" stroke="#ffffff" stroke-opacity="0.18"/>
+
+  <rect x="92" y="90" width="150" height="28" rx="14" fill="#36BCF7" fill-opacity="0.15" stroke="#36BCF7" stroke-opacity="0.5"/>
+  <text x="167" y="108" font-family="Verdana, Arial, sans-serif" font-size="12" fill="#7dd6ff" text-anchor="middle" letter-spacing="1">AI &amp; ML ENGINEER</text>
+
+  <text x="92" y="165" font-family="Verdana, Arial, sans-serif" font-size="42" font-weight="bold" fill="#ffffff">Ravikishan Pandey</text>
+
+  <text x="92" y="198" font-family="Verdana, Arial, sans-serif" font-size="19" fill="url(#accent)">Full-Stack AI Developer · GenAI &amp; RAG Builder</text>
+
+  <g font-family="Verdana, Arial, sans-serif" font-size="12" fill="#d8e6ff">
+    <rect x="92" y="215" width="70" height="26" rx="13" fill="#ffffff" fill-opacity="0.08"/>
+    <text x="127" y="232" text-anchor="middle">Python</text>
+
+    <rect x="170" y="215" width="70" height="26" rx="13" fill="#ffffff" fill-opacity="0.08"/>
+    <text x="205" y="232" text-anchor="middle">React</text>
+
+    <rect x="248" y="215" width="76" height="26" rx="13" fill="#ffffff" fill-opacity="0.08"/>
+    <text x="286" y="232" text-anchor="middle">Next.js</text>
+
+    <rect x="332" y="215" width="80" height="26" rx="13" fill="#ffffff" fill-opacity="0.08"/>
+    <text x="372" y="232" text-anchor="middle">FastAPI</text>
+
+    <rect x="420" y="215" width="62" height="26" rx="13" fill="#ffffff" fill-opacity="0.08"/>
+    <text x="451" y="232" text-anchor="middle">RAG</text>
+
+    <rect x="490" y="215" width="90" height="26" rx="13" fill="#ffffff" fill-opacity="0.08"/>
+    <text x="535" y="232" text-anchor="middle">GenAI · DSA</text>
+  </g>
+</svg>
+
+<svg width="560" height="300" viewBox="0 0 560 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#101a33"/>
+      <stop offset="100%" stop-color="#1c1140"/>
+    </linearGradient>
+    <linearGradient id="head1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#36BCF7"/>
+      <stop offset="100%" stop-color="#00c9a7"/>
+    </linearGradient>
+  </defs>
+  <rect width="560" height="300" rx="18" fill="url(#bg1)" stroke="#ffffff" stroke-opacity="0.12"/>
+  <rect x="0" y="0" width="560" height="8" rx="4" fill="url(#head1)"/>
+
+  <circle cx="60" cy="66" r="26" fill="#ffffff" fill-opacity="0.08"/>
+  <text x="60" y="75" font-size="26" text-anchor="middle">🩺</text>
+
+  <text x="102" y="60" font-family="Verdana, Arial, sans-serif" font-size="21" font-weight="bold" fill="#ffffff">Medical Chatbot</text>
+  <text x="102" y="82" font-family="Verdana, Arial, sans-serif" font-size="12.5" fill="#8fb8ff">RAG · LangChain · Deep Learning · FastAPI</text>
+
+  <text x="40" y="128" font-family="Verdana, Arial, sans-serif" font-size="13" fill="#c9d6f0">AI-powered medical assistant that retrieves</text>
+  <text x="40" y="150" font-family="Verdana, Arial, sans-serif" font-size="13" fill="#c9d6f0">relevant medical context and generates</text>
+  <text x="40" y="172" font-family="Verdana, Arial, sans-serif" font-size="13" fill="#c9d6f0">accurate, context-aware responses in</text>
+  <text x="40" y="194" font-family="Verdana, Arial, sans-serif" font-size="13" fill="#c9d6f0">real time via a FastAPI backend.</text>
+
+  <g font-family="Verdana, Arial, sans-serif" font-size="11" fill="#d8e6ff">
+    <rect x="40" y="220" width="82" height="26" rx="13" fill="#36BCF7" fill-opacity="0.15"/>
+    <text x="81" y="237" text-anchor="middle">LangChain</text>
+    <rect x="130" y="220" width="60" height="26" rx="13" fill="#8A2BE2" fill-opacity="0.20"/>
+    <text x="160" y="237" text-anchor="middle">RAG</text>
+    <rect x="198" y="220" width="82" height="26" rx="13" fill="#00c9a7" fill-opacity="0.18"/>
+    <text x="239" y="237" text-anchor="middle">FastAPI</text>
+  </g>
+
+  <text x="40" y="272" font-family="Verdana, Arial, sans-serif" font-size="12.5" fill="#7dd6ff">🔗 github.com/Pandeyjii143</text>
+</svg>
+<svg width="560" height="300" viewBox="0 0 560 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#101a33"/>
+      <stop offset="100%" stop-color="#1c1140"/>
+    </linearGradient>
+    <linearGradient id="head2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF9800"/>
+      <stop offset="100%" stop-color="#F7931E"/>
+    </linearGradient>
+  </defs>
+  <rect width="560" height="300" rx="18" fill="url(#bg2)" stroke="#ffffff" stroke-opacity="0.12"/>
+  <rect x="0" y="0" width="560" height="8" rx="4" fill="url(#head2)"/>
+
+  <circle cx="60" cy="66" r="26" fill="#ffffff" fill-opacity="0.08"/>
+  <text x="60" y="75" font-size="26" text-anchor="middle">📧</text>
+
+  <text x="102" y="60" font-family="Verdana, Arial, sans-serif" font-size="21" font-weight="bold" fill="#ffffff">Email/SMS Spam Classifier</text>
+  <text x="102" y="82" font-family="Verdana, Arial, sans-serif" font-size="12.5" fill="#ffcf8f">Python · NLP · Scikit-learn</text>
+
+  <text x="40" y="128" font-family="Verdana, Arial, sans-serif" font-size="13" fill="#c9d6f0">Machine Learning based spam-detection</text>
+  <text x="40" y="150" font-family="Verdana, Arial, sans-serif" font-size="13" fill="#c9d6f0">system that classifies emails/SMS as spam</text>
+  <text x="40" y="172" font-family="Verdana, Arial, sans-serif" font-size="13" fill="#c9d6f0">or ham using TF-IDF vectorization,</text>
+  <text x="40" y="194" font-family="Verdana, Arial, sans-serif" font-size="13" fill="#c9d6f0">tokenization, and stemming.</text>
+
+  <g font-family="Verdana, Arial, sans-serif" font-size="11" fill="#d8e6ff">
+    <rect x="40" y="220" width="66" height="26" rx="13" fill="#F7931E" fill-opacity="0.20"/>
+    <text x="73" y="237" text-anchor="middle">Python</text>
+    <rect x="114" y="220" width="50" height="26" rx="13" fill="#8A2BE2" fill-opacity="0.20"/>
+    <text x="139" y="237" text-anchor="middle">NLP</text>
+    <rect x="172" y="220" width="100" height="26" rx="13" fill="#36BCF7" fill-opacity="0.18"/>
+    <text x="222" y="237" text-anchor="middle">Scikit-learn</text>
+  </g>
+
+  <text x="40" y="272" font-family="Verdana, Arial, sans-serif" font-size="12.5" fill="#7dd6ff">🔗 github.com/Pandeyjii143</text>
+</svg>
+<svg width="560" height="300" viewBox="0 0 560 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#101a33"/>
+      <stop offset="100%" stop-color="#1c1140"/>
+    </linearGradient>
+    <linearGradient id="head3" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8A2BE2"/>
+      <stop offset="100%" stop-color="#36BCF7"/>
+    </linearGradient>
+  </defs>
+  <rect width="560" height="300" rx="18" fill="url(#bg3)" stroke="#ffffff" stroke-opacity="0.12"/>
+  <rect x="0" y="0" width="560" height="8" rx="4" fill="url(#head3)"/>
+
+  <circle cx="60" cy="66" r="26" fill="#ffffff" fill-opacity="0.08"/>
+  <text x="60" y="75" font-size="26" text-anchor="middle">🏢</text>
+
+  <text x="102" y="60" font-family="Verdana, Arial, sans-serif" font-size="21" font-weight="bold" fill="#ffffff">Rudransh Enterprises</text>
+  <text x="102" y="82" font-family="Verdana, Arial, sans-serif" font-size="12.5" fill="#c9a9ff">HTML · CSS · JavaScript · In Development</text>
+
+  <text x="40" y="128" font-family="Verdana, Arial, sans-serif" font-size="13" fill="#c9d6f0">Responsive business website focused on</text>
+  <text x="40" y="150" font-family="Verdana, Arial, sans-serif" font-size="13" fill="#c9d6f0">clean UI, professional branding, and a</text>
+  <text x="40" y="172" font-family="Verdana, Arial, sans-serif" font-size="13" fill="#c9d6f0">mobile-first, accessible layout.</text>
+
+  <g font-family="Verdana, Arial, sans-serif" font-size="11" fill="#d8e6ff">
+    <rect x="40" y="220" width="64" height="26" rx="13" fill="#E34F26" fill-opacity="0.20"/>
+    <text x="72" y="237" text-anchor="middle">HTML5</text>
+    <rect x="112" y="220" width="60" height="26" rx="13" fill="#1572B6" fill-opacity="0.25"/>
+    <text x="142" y="237" text-anchor="middle">CSS3</text>
+    <rect x="180" y="220" width="90" height="26" rx="13" fill="#F7DF1E" fill-opacity="0.22"/>
+    <text x="225" y="237" text-anchor="middle">JavaScript</text>
+  </g>
+
+  <text x="40" y="272" font-family="Verdana, Arial, sans-serif" font-size="12.5" fill="#7dd6ff">🔗 github.com/Pandeyjii143</text>
+</svg>
+
+<svg width="1000" height="220" viewBox="0 0 1000 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#36BCF7"/>
+      <stop offset="100%" stop-color="#8A2BE2"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="220" fill="none"/>
+  <line x1="60" y1="110" x2="940" y2="110" stroke="url(#line)" stroke-width="3"/>
+
+  <circle cx="120" cy="110" r="9" fill="#36BCF7"/>
+  <text x="120" y="70" font-family="Verdana, Arial, sans-serif" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">2023</text>
+  <text x="120" y="90" font-family="Verdana, Arial, sans-serif" font-size="11" fill="#9fb8e8" text-anchor="middle">Started B.Tech</text>
+  <text x="120" y="140" font-family="Verdana, Arial, sans-serif" font-size="11" fill="#c9d6f0" text-anchor="middle">AI &amp; ML</text>
+  <text x="120" y="156" font-family="Verdana, Arial, sans-serif" font-size="11" fill="#c9d6f0" text-anchor="middle">Foundations</text>
+
+  <circle cx="340" cy="110" r="9" fill="#5ec6f7"/>
+  <text x="340" y="70" font-family="Verdana, Arial, sans-serif" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">2024</text>
+  <text x="340" y="90" font-family="Verdana, Arial, sans-serif" font-size="11" fill="#9fb8e8" text-anchor="middle">Core ML + DSA</text>
+  <text x="340" y="140" font-family="Verdana, Arial, sans-serif" font-size="11" fill="#c9d6f0" text-anchor="middle">Python, Java, ML</text>
+  <text x="340" y="156" font-family="Verdana, Arial, sans-serif" font-size="11" fill="#c9d6f0" text-anchor="middle">algorithms &amp; models</text>
+
+  <circle cx="580" cy="110" r="9" fill="#a06cf0"/>
+  <text x="580" y="70" font-family="Verdana, Arial, sans-serif" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">2025</text>
+  <text x="580" y="90" font-family="Verdana, Arial, sans-serif" font-size="11" fill="#9fb8e8" text-anchor="middle">GenAI &amp; RAG</text>
+  <text x="580" y="140" font-family="Verdana, Arial, sans-serif" font-size="11" fill="#c9d6f0" text-anchor="middle">Built Medical Chatbot,</text>
+  <text x="580" y="156" font-family="Verdana, Arial, sans-serif" font-size="11" fill="#c9d6f0" text-anchor="middle">LangChain + FastAPI</text>
+
+  <circle cx="820" cy="110" r="10" fill="#8A2BE2"/>
+  <circle cx="820" cy="110" r="16" fill="none" stroke="#8A2BE2" stroke-opacity="0.4" stroke-width="2"/>
+  <text x="820" y="70" font-family="Verdana, Arial, sans-serif" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">2026 →</text>
+  <text x="820" y="90" font-family="Verdana, Arial, sans-serif" font-size="11" fill="#9fb8e8" text-anchor="middle">Full-Stack AI</text>
+  <text x="820" y="140" font-family="Verdana, Arial, sans-serif" font-size="11" fill="#c9d6f0" text-anchor="middle">React/Next.js + FastAPI —</text>
+  <text x="820" y="156" font-family="Verdana, Arial, sans-serif" font-size="11" fill="#c9d6f0" text-anchor="middle">seeking AI Engineer internship</text>
+</svg>
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs once a day
+  workflow_dispatch: {}
+  push:
+    branches: [ main ]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate contribution snake gif/svg
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push output to "output" branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
