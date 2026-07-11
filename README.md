@@ -237,18 +237,6 @@
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Pandeyjii143/Pandeyjii143/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
-> **Note:** The snake animation requires a GitHub Action to generate it automatically. It won't appear until you set that up.
-
----
-
 # ⚡ GitHub Highlights
 
 <p align="center">
@@ -283,46 +271,6 @@
 
 </p>
 
----
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/Pandeyjii143">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://x.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 📄 Resume
-
-<p align="center">
-
-<a href="https://github.com/Pandeyjii143/Pandeyjii143/raw/main/assets/Resume_Ravikishan_Pandey.pdf">
-
-<img src="https://img.shields.io/badge/📄%20Download%20Resume-red?style=for-the-badge"/>
-
-</a>
-
-</p>
 
 ---
 
