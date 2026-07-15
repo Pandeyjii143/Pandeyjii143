@@ -21,6 +21,12 @@
 
 <img src="https://img.shields.io/github/stars/Pandeyjii143?style=for-the-badge"/>
 
+<a href="https://github.com/Pandeyjii143/Pandeyjii143/raw/main//Ravikishan_Pandey_Resume (1).docx">
+
+<img src="https://img.shields.io/badge/📄%20Download%20Resume-red?style=for-the-badge"/>
+
+</a>
+
 </p>
 
 ---
@@ -35,7 +41,7 @@
 
 🌱 Continuously learning modern AI technologies and software engineering practices
 
-🎯 Goal: Become a **Full Stack AI Engineer**
+**Full Stack AI Engineer**
 
 ---
 
@@ -55,15 +61,7 @@
 
 ## 📄 Resume
 
-<p align="center">
 
-<a href="https://github.com/Pandeyjii143/Pandeyjii143/raw/main//Ravikishan_Pandey_Resume (1).docx">
-
-<img src="https://img.shields.io/badge/📄%20Download%20Resume-red?style=for-the-badge"/>
-
-</a>
-
-</p>
 
 ---
 
