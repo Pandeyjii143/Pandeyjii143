@@ -190,10 +190,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Pandeyjii143&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pandeyjii143&label=Profile%20Views&color=0e75b6&style=flat"/>
-  <img src="https://img.shields.io/github/followers/Pandeyjii143?label=Followers&style=social"/>
-</p>
 
 ## 🛠️ Tools & Platforms
 
