@@ -191,23 +191,6 @@
 </p>
 
 ---
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pandeyjii143&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Pandeyjii143&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pandeyjii143&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 # 📈 Contribution Graph
 
