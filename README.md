@@ -211,31 +211,21 @@
 
 ---
 
-## 📊 GitHub Analytics
+## ⚡ GitHub Highlights
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pandeyjii143&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pandeyjii143&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pandeyjii143&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Pandeyjii143&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pandeyjii143&theme=tokyonight" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pandeyjii143&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pandeyjii143&theme=tokyo-night&hide_border=true"/>
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pandeyjii143&theme=tokyonight" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pandeyjii143&theme=tokyonight&utcOffset=5.5" />
 </p>
-# 💡 Favorite Quote
-
-<p align="center">
-
-> **"The best way to predict the future is to build it."**
-
-> **"Every expert was once a beginner who refused to give up."**
-
-</p>
-
----
 
 # 🎯 Current Mission
 
