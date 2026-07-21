@@ -329,6 +329,6 @@ while(True):
 
 <p align="center">
 
-Made with ❤️ by <b>Ravikishan Pandey</b>
+Made with ❤️ by <b>Ravikishan Pandey </b>
 
 </p>
