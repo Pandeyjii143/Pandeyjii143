@@ -211,41 +211,21 @@
 
 ---
 
-
-# ⚡ GitHub Highlights
+## ⚡ GitHub Highlights
 
 <p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pandeyjii143&theme=tokyonight"/>
-
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pandeyjii143&theme=tokyonight" />
 </p>
 
 <p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pandeyjii143&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pandeyjii143&theme=tokyonight"/>
-
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pandeyjii143&theme=tokyonight" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pandeyjii143&theme=tokyonight" />
 </p>
 
 <p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pandeyjii143&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pandeyjii143&theme=tokyonight&utcOffset=5.5"/>
-
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pandeyjii143&theme=tokyonight" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pandeyjii143&theme=tokyonight&utcOffset=5.5" />
 </p>
-
----
-
-# 💻 Coding Activity
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pandeyjii143&theme=github_dark"/>
-
-</p>
-
 
 ---
 
