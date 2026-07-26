@@ -41,7 +41,7 @@
 
 🌱 Continuously learning modern AI technologies and software engineering practices
 
-**Full Stack AI Engineer**
+**Full Stack AI Engineer **
 
 ---
 
@@ -54,7 +54,6 @@
 - ⚡ FastAPI
 - 🌐 MERN Stack
 - ☁ Backend Development
-- 🏗 System Design
 - 📊 Data Structures & Algorithms
 
 ---
