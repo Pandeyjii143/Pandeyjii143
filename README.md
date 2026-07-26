@@ -6,7 +6,7 @@
 
 <h3 align="center">
 🚀 Artificial Intelligence & Machine Learning Student <br>
-🤖 Full Stack AI Developer • Backend Developer • AI Enthusiast
+🤖 Full Stack AI Developer • Backend Developer 
 </h3>
 
 <p align="center">
