@@ -48,8 +48,8 @@
 ## 🌱 Current Focus
 - 🔥 Generative AI
 - 📚 Retrieval-Augmented Generation (RAG)
-- ☁ Backend Development
 - 📊 Data Structures & Algorithms
+- 
 
 ---
 
