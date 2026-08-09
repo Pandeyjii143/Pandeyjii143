@@ -51,8 +51,6 @@
 - 🧠 Deep Learning
 - 🔥 Generative AI
 - 📚 Retrieval-Augmented Generation (RAG)
-- ⚡ FastAPI
-- 🌐 MERN Stack
 - ☁ Backend Development
 - 📊 Data Structures & Algorithms
 
