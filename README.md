@@ -46,9 +46,6 @@
 ---
 
 ## 🌱 Current Focus
-
-- 🤖 Machine Learning
-- 🧠 Deep Learning
 - 🔥 Generative AI
 - 📚 Retrieval-Augmented Generation (RAG)
 - ☁ Backend Development
